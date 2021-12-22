@@ -1,0 +1,9 @@
+[submodule "lib/modulA"]
+	path = lib/modulA
+	url = git@github.com:piotrczaja/wdad2-modul-a.git
+[submodule "lib/modulB"]
+	path = lib/modulB
+	url = git@github.com:piotrczaja/wdad2-modul-b.git
+[submodule "lib/modulC"]
+	path = lib/modulC
+	url = git@github.com:piotrczaja/wdad2-modul-c.git
